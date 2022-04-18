@@ -14,7 +14,7 @@
     "name": "notion",
     "icon_addr": "/notion.svg",
     "content":{
-        "default_url":  "https://www.notion.so/",
+        "default_url":  "https://www.notion.so/"
     },
     "actions": [
       {"name": "new page", "url": "https://www.notion.so/new"}
