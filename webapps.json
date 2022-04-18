@@ -1,0 +1,52 @@
+[ 
+  {
+    "name": "default",
+    "icon_addr": "/safari.png",
+    "default_url": "https://www.google.com/",
+    "actions": [
+    ]
+  },
+  {
+    "name": "notion",
+    "icon_addr": "/notion.svg",
+    "default_url": "https://www.notion.so/",
+    "actions": [
+      {"name": "new page", "url": "https://www.notion.so/new"}
+    ]
+  },
+  {
+    "name": "figama",
+    "icon_addr": "/figma.svg",
+    "default_url": "https://figma.com",
+    "actions": [
+      {"name": "search iamge", "url": "https://figma.com/new"} 
+    ]
+  },
+  {
+    "name": "Slack",
+    "icon_addr": "/slack.svg",
+    "default_url": "https://app.slack.com/client/T01KS0VV31B/threads",
+    "actions": [
+    ]
+  },
+  {
+    "name": "twitter",
+    "icon_addr": "/twitter.svg",
+    "default_url": "https://www.twitter.com/",
+    "actions": [
+      {"name": "new tweet", "url": "https://twitter.com/compose/tweet"},
+      {"name": "explore", "url": "https://twitter.com/explore"},
+      {"name": "notifications", "url": "https://twitter.com/notifications"} 
+    ]
+  },
+  {
+    "name": "medium",
+    "icon_addr": "/medium.png",
+    "default_url": "https://medium.com/",
+    "actions": [
+      {"name": "my list", "url": "https://medium.com/me/lists"} ,
+      {"name": "popular", "url": "https://medium.com/topic/popular"} ,
+      {"name": "featured", "url":  "https://medium.com/topic/editors-picks"}
+    ]
+  }
+]
