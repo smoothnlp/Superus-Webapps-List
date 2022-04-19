@@ -95,5 +95,45 @@
     },
     "actions": [
     ]
+  },
+  {
+    "type": "app",
+    "name": "google drive",
+    "icon_addr": "/google_drive.png",
+    "content":{
+        "default_url": "https://drive.google.com/"
+    },
+    "actions": [
+    ]
+  },
+  {
+    "type": "app",
+    "name": "google calender",
+    "icon_addr": "/google_calender.png",
+    "content":{
+        "default_url": "https://calendar.google.com/"
+    },
+    "actions": [
+    ]
+  },
+  {
+    "type": "app",
+    "name": "youtube",
+    "icon_addr": "/youtube.png",
+    "content":{
+        "default_url": "https://youtube.com/"
+    },
+    "actions": [
+    ]
+  },
+  {
+    "type": "app",
+    "name": "airtable",
+    "icon_addr": "/airtable.png",
+    "content":{
+        "default_url": "https://airtable.com/"
+    },
+    "actions": [
+    ]
   }
 ]
