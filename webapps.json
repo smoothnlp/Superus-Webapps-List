@@ -64,5 +64,36 @@
       {"name": "popular", "url": "https://medium.com/topic/popular"} ,
       {"name": "featured", "url":  "https://medium.com/topic/editors-picks"}
     ]
+  },
+  {
+    "type": "app",
+    "name": "github",
+    "icon_addr": "/github.png",
+    "content":{
+        "default_url": "https://github.com/"
+    },
+    "actions": [
+      {"name": "pulls", "url": "https://github.com/pulls"} 
+    ]
+  },
+  {
+    "type": "app",
+    "name": "feishu",
+    "icon_addr": "/feishu.png",
+    "content":{
+        "default_url": "https://www.feishu.cn/"
+    },
+    "actions": [
+    ]
+  },
+  {
+    "type": "app",
+    "name": "google translate",
+    "icon_addr": "/google_translate.png",
+    "content":{
+        "default_url": "https://translate.google.com/"
+    },
+    "actions": [
+    ]
   }
 ]
