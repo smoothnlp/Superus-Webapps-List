@@ -162,6 +162,7 @@
   {
     "type": "app",
     "name": "google meeting",
+    "id": "app-google-meeting",
     "icon_addr": "https://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v1/web-24dp/logo_meet_2020q4_color_1x_web_24dp.png",
     "content":{
         "default_url": "https://meet.google.com/new"
@@ -172,6 +173,7 @@
   {
     "type": "app",
     "name": "gmail",
+    "id": "app-gmail",
     "icon_addr": "https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico",
     "content":{
         "default_url": "https://mail.google.com/"
@@ -182,6 +184,7 @@
   {
     "type": "app",
     "name": "discord",
+    "id": "app-discord",
     "icon_addr": "https://discord.com/assets/ec2c34cadd4b5f4594415127380a85e6.ico",
     "content":{
         "default_url": "https://discord.com/app"
@@ -192,6 +195,7 @@
   {
     "type": "app",
     "name": "flomo",
+    "id": "app-flomo",
     "icon_addr": "https://st.flomoapp.com/images/logo-192x192.png",
     "content":{
         "default_url": "https://flomoapp.com/mine"
@@ -202,6 +206,7 @@
   {
     "type": "app",
     "name": "calendly",
+    "id": "app-calendly",
     "icon_addr": "https://assets-marketing-site.calendly.com/favicon-32x32.png?v=562a6280871383fd65846bc6297cf964",
     "content":{
         "default_url": "https://calendly.com/"
@@ -212,6 +217,7 @@
   {
     "type": "app",
     "name": "outlook",
+    "id": "app-outlook",
     "icon_addr": "https://ow2.res.office365.com/owalanding/2022.4.26.01/images/favicon.ico?v=4",
     "content":{
         "default_url": "https://outlook.live.com/owa/"
@@ -222,6 +228,7 @@
   {
     "type": "app",
     "name": "trello",
+    "id": "app-trello",
     "icon_addr": "https://trello.com/favicon.ico",
     "content":{
         "default_url": "https://trello.com/"
@@ -232,6 +239,7 @@
   {
     "type": "app",
     "name": "asana",
+    "id": "app-asana",
     "icon_addr": "https://assets.asana.biz/m/7a38ea1bc15b234a/original/asana-ico.ico",
     "content":{
         "default_url": "https://app.asana.com/"
