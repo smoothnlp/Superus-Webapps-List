@@ -152,6 +152,7 @@
   {
     "type": "app",
     "name": "google",
+    "id": "app-google",
     "icon_addr": "https://www.google.com/favicon.ico",
     "content":{
         "default_url": "https://google.com/"
