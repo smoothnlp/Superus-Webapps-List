@@ -186,7 +186,7 @@
     "type": "app",
     "name": "discord",
     "id": "app-discord",
-    "icon_addr": "./discord.png",
+    "icon_addr": "/discord.png",
     "content":{
         "default_url": "https://discord.com/app"
     },
