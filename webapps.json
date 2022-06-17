@@ -1,17 +1,6 @@
 [ 
   {
     "type": "app",
-    "name": "default",
-    "id": "app-default",
-    "icon_addr": "/safari.png",
-    "content":{
-        "default_url": "https://www.google.com/"
-    },
-    "actions": [
-    ]
-  },
-  {
-    "type": "app",
     "name": "notion",
     "id": "app-notion",
     "icon_addr": "/notion.svg",
